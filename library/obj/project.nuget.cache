@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqBq3Cp3JD61mm26Uv5P6qZb7UC9GSoSgPJkYkY5NbmDqQhjig+bqTP3ovemS1jZ1OCC5JHmL83bfrg3zZjBpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jespe\\source\\repos\\ScrapperTeslaAPI\\library\\TeslaAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jespe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jespe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
